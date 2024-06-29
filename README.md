@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Victor-Iroko
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Data Science
+- 🎓 Computer Science Student
+- 👀 Passionate about AI development
+- 🌱 I’m currently learning Backened development (Node)
 - 💞️ I’m looking to collaborate on various things 
 - 📫 How to reach me [@X](https://x.com/IrokoVictor5)
 - ⚡ Fun fact: I need a better laptop
