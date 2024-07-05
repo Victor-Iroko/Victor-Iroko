@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Victor-Iroko
 - 🎓 Computer Science Student
 - 👀 Passionate about AI development
-- 🌱 I’m currently learning Backened development (Node)
+- 🌱 I’m currently learning Backend development (Node)
 - 💞️ I’m looking to collaborate on various things 
 - 📫 How to reach me [@X](https://x.com/IrokoVictor5)
 - ⚡ Fun fact: I need a better laptop
